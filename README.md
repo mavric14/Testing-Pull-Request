@@ -1,6 +1,8 @@
 == README
 
-Just changed the file so that I have somthing to commit
+Just changed the file so that I have somthing to commit.
+
+This is the change that I made.
 
 Things you may want to cover:
 
